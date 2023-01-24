@@ -1,8 +1,4 @@
-- @AArabio
-- Cedar Crest College Alum 2021
-- B.S. Forensic Science and B.S. Biology
-- Current Graduate Student at Iowa State University studying Statistics
-- Email: aarabio@outlook.com
+
 
 
 <!---
